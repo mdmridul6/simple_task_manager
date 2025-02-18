@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:task_manager/entities/Todo.dart';
 import 'package:task_manager/ui/widgets/todo_item.dart';
 
-class AllTodoList extends StatelessWidget {
-  const AllTodoList({super.key});
+class DoneTodoList extends StatelessWidget {
+  const DoneTodoList({super.key});
 
   @override
   Widget build(BuildContext context) {
